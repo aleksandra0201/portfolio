@@ -1,0 +1,61 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h6 {
+    font-family: 'Major Mono Display', monospace;
+}
+ 
+h2 {
+     margin-bottom: 1rem;
+     font-family: 'Major Mono Display', monospace;
+     margin-bottom: 2rem;
+}
+
+.jumbotron {
+    /* background-image: url("https://images.unsplash.com/photo-1499037185672-7e3a02f319b1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1498&q=80"); */
+    background-image: url("https://images.unsplash.com/photo-1521247205284-f4f3c95fdb5a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2624&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: whitesmoke;
+    padding: 1rem 1rem;
+}
+
+.lead {
+    font-weight: 500;
+}
+
+.card-title {
+    font-family: 'Major Mono Display', monospace;
+}
+
+.card-text {
+    font-size: 0.9rem;
+}
+
+.credit {
+    font-size: 0.8rem;
+    color: gray;
+}
+
+#profilepic {
+    max-width: 100%;
+}
+
+#link {
+    margin: 1rem 1rem;
+}
+
+#profiletext {
+    text-shadow: 0px 4px 3px rgb(0, 0, 0), 
+               0px 8px 13px rgb(0, 0, 0),
+               0px 18px 23px rgb(0, 0, 0);
+}
+
+#contactinfo{
+    font-size: 0.8rem;
+}
+
+
+

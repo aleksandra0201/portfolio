@@ -12,9 +12,8 @@ h2 {
      margin-bottom: 2rem;
 }
 
-.btn:focus, .btn:active:focus, .btn.active:focus{
-	outline:none;
-	box-shadow:none;
+.container {
+    overflow: hidden;
 }
 
 .jumbotron {
@@ -42,6 +41,11 @@ h2 {
 .credit {
     font-size: 0.8rem;
     color: gray;
+}
+
+.btn, .btn:active, .btn:focus, .btn.active, .btn:active:focus {
+    outline: none;
+    box-shadow: none;
 }
 
 #profilepic {

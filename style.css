@@ -12,6 +12,11 @@ h2 {
      margin-bottom: 2rem;
 }
 
+.btn:focus, .btn:active:focus, .btn.active:focus{
+	outline:none;
+	box-shadow:none;
+}
+
 .jumbotron {
     /* background-image: url("https://images.unsplash.com/photo-1499037185672-7e3a02f319b1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1498&q=80"); */
     background-image: url("https://images.unsplash.com/photo-1521247205284-f4f3c95fdb5a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2624&q=80");

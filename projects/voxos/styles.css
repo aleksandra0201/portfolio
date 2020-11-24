@@ -1,0 +1,53 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+.satc-mini-logo {
+	max-height: 150px;
+}
+
+.container-fluid {
+	overflow: hidden;
+}
+
+.btn:focus, .btn:active:focus, .btn.active:focus{
+	outline:none;
+	box-shadow:none;
+}
+
+.card-text {
+	font-size: 15px;
+}
+
+#satc-logo {
+	max-height: 50px;
+}
+
+#app-screenshot {
+	max-height: 300px;
+}
+
+#arrow {
+	max-height: 100px;
+}
+
+#voxos-glasses {
+	max-height: 150px;
+}
+
+#voxos-logo {
+	max-height: 100px;
+}
+
+#voxos-satc-logo {
+	max-height: 100px;
+}
+
+#voxos {
+	max-height: 350px;
+}
+
+#img1 {
+	max-height: 350px;
+}
